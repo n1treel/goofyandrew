@@ -41,7 +41,6 @@ nav{
   text-align: center;
   font-size: 50px;
   padding: 15px;
-  height: 70px;
 }
 .nav_p{
   margin: 0px;
@@ -51,7 +50,6 @@ nav{
 }
 .header_main{
   width: 100%;
-  height: 50px;
   background-color: #7EE081;
 }
 .header_main > h2{
